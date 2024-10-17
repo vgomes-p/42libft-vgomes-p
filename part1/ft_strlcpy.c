@@ -6,9 +6,12 @@
 /*   By: vgomes-p <vgomes-p@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/17 14:53:41 by vgomes-p          #+#    #+#             */
-/*   Updated: 2024/10/17 15:18:20 by vgomes-p         ###   ########.fr       */
+/*   Updated: 2024/10/17 19:04:57 by vgomes-p         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+#include <stddef.h>
 
 size_t	strlcpy(char *dest, const char *src, size_t size)
 {
